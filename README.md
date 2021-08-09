@@ -10,13 +10,16 @@ The program I coded and used is [prob.py](https://github.com/RGB-NFTs/RGB-NFTs/b
 ![](https://raw.githubusercontent.com/RGB-NFTs/RGB-NFTs/main/seed.png)
 
 You might wonder why it took almost 1 hour to do so.
+
 To get a full either red, green or blue image, you will need to get one of the three colors, 16 times in row.
+
 The maths would be:
+
 `(1/3)^16`
+
 **This equals to 1 in 43.046.721**.
 
 This is extremely rare, and that's why there's only 1 ultrarare NFT.
 
 Other than that, the 52 Rare NFTs are the ones that only contain 2 out of 3 colors. 
-There are only 52 of them.
 

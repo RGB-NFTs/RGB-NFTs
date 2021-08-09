@@ -2,7 +2,9 @@
 ### RGB NFTs Source Code and proof of work.
 
 [rgbnft.py](https://github.com/RGB-NFTs/RGB-NFTs/blob/main/rgbnft.py "rgbnft.py") is the file that generated the 8192 pictures.
+
 By running rgbnft.py, you will **ALWAYS** get the exact 8192 pictures. 
+
 **This is to prove that I didn't make them manually.**
 
 To get a full blue image, I had to bruteforce the seed which the random library uses.

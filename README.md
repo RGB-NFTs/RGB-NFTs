@@ -25,3 +25,4 @@ This is extremely rare, and that's why there's only 1 ultrarare NFT.
 
 Other than that, the 52 Rare NFTs are the ones that only contain 2 out of 3 colors. 
 
+You can find them [here](https://raw.githubusercontent.com/RGB-NFTs/RGB-NFTs/main/rarenfts.txt)
